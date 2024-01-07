@@ -1,2 +1,0 @@
-# REAMEgenerator
-REAMEgenerator
