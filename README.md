@@ -23,7 +23,7 @@ To use this project, download the repository files to your local machine.  Insta
 
 
 The following video application's appearance and functionality:
- https://github.com/maslla100/READMEgenerator/blob/main/Assets/video.webm
+ https://drive.google.com/file/d/1pdjFFOpE0m79njFIj-q9qTWRB73COz2E/view
 
 ## Code
 URL to code: https://github.com/maslla100/READMEgenerator
