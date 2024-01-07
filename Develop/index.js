@@ -1,4 +1,14 @@
+function renderLicenseSection(license) {
+    if (license !== 'None') {
+        return `## License
 
+This project is licensed under the ${license}. For more information, see the link below.
+${renderLicenseLink(license)}
+`;
+    } else {
+        return '';
+    }
+}
 
 const inquirer = require('inquirer');
 const fs = require('fs');
