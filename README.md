@@ -22,7 +22,8 @@ To install this project, download the repository files to your local machine.  I
 To use this project, download the repository files to your local machine.  Install npm inquirer and use the command line to run the JavaScript  Professional README Generator application.  
 
 
-The following video application's appearance and functionality: /Assets/video.webm
+The following video application's appearance and functionality:
+ https://github.com/maslla100/READMEgenerator/blob/main/Assets/video.webm
 
 ## Code
 URL to code: https://github.com/maslla100/READMEgenerator
