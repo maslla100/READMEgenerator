@@ -22,9 +22,9 @@ To install this project, download the repository files to your local machine.  I
 To use this project, download the repository files to your local machine.  Install npm inquirer and use the command line to run the JavaScript  Professional README Generator application.  
 
 
-The following image shows the web application's appearance and functionality:
+The following video application's appearance and functionality:
 
-![The Weather Dashboard shows the following image".](/Assets/sample.jpeg)
+/Assets/video.webm
 
 ## Code
 URL to code: https://github.com/maslla100/READMEgenerator
