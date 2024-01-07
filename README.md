@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 ## Project Name
  Weather Dashboard 
 
